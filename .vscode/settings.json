@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Monokai Dimmed",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 16,
+    "tabnine.experimentalAutoImports": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "redhat.telemetry.enabled": true,
+    "git.openRepositoryInParentFolders": "always"
+}
